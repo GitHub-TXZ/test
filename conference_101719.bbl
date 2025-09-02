@@ -7,7 +7,8 @@
 \providecommand{\BIBentrySTDinterwordspacing}{\spaceskip=0pt\relax}
 \providecommand{\BIBentryALTinterwordstretchfactor}{4}
 \providecommand{\BIBentryALTinterwordspacing}{\spaceskip=\fontdimen2\font plus
-\BIBentryALTinterwordstretchfactor\fontdimen3\font minus \fontdimen4\font\relax}
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
 \providecommand{\BIBforeignlanguage}[2]{{%
 \expandafter\ifx\csname l@#1\endcsname\relax
 \typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
@@ -21,18 +22,31 @@
 \BIBdecl
 
 \bibitem{chen2023privacy}
-C.~Chen, Y.~Li, Z.~Wu, C.~Mai, Y.~Liu, Y.~Hu, Z.~Zheng, and J.~Kang, ``Privacy computing meets metaverse: Necessity, taxonomy and challenges,'' \emph{arXiv preprint arXiv:2304.11643}, 2023.
+C.~Chen, Y.~Li, Z.~Wu, C.~Mai, Y.~Liu, Y.~Hu, Z.~Zheng, and J.~Kang, ``Privacy
+  computing meets metaverse: Necessity, taxonomy and challenges,'' \emph{arXiv
+  preprint arXiv:2304.11643}, 2023.
 
 \bibitem{seid2022blockchain}
-A.~M. Seid, J.~Lu, H.~N. Abishu, and T.~A. Ayall, ``Blockchain-enabled task offloading with energy harvesting in multi-uav-assisted iot networks: A multi-agent drl approach,'' \emph{IEEE Journal on Selected Areas in Communications}, vol.~40, no.~12, pp. 3517--3532, 2022.
+A.~M. Seid, J.~Lu, H.~N. Abishu, and T.~A. Ayall, ``Blockchain-enabled task
+  offloading with energy harvesting in multi-uav-assisted iot networks: A
+  multi-agent drl approach,'' \emph{IEEE Journal on Selected Areas in
+  Communications}, vol.~40, no.~12, pp. 3517--3532, 2022.
 
 \bibitem{xu2021privacy}
-H.~Xu, X.~Qiu, W.~Zhang, K.~Liu, S.~Liu, and W.~Chen, ``Privacy-preserving incentive mechanism for multi-leader multi-follower iot-edge computing market: A reinforcement learning approach,'' \emph{Journal of Systems Architecture}, vol. 114, p. 101932, 2021.
+H.~Xu, X.~Qiu, W.~Zhang, K.~Liu, S.~Liu, and W.~Chen, ``Privacy-preserving
+  incentive mechanism for multi-leader multi-follower iot-edge computing
+  market: A reinforcement learning approach,'' \emph{Journal of Systems
+  Architecture}, vol. 114, p. 101932, 2021.
 
 \bibitem{nie2020multi}
-J.~Nie, J.~Luo, Z.~Xiong, D.~Niyato, P.~Wang, and H.~V. Poor, ``A multi-leader multi-follower game-based analysis for incentive mechanisms in socially-aware mobile crowdsensing,'' \emph{IEEE Transactions on Wireless Communications}, vol.~20, no.~3, pp. 1457--1471, 2020.
+J.~Nie, J.~Luo, Z.~Xiong, D.~Niyato, P.~Wang, and H.~V. Poor, ``A multi-leader
+  multi-follower game-based analysis for incentive mechanisms in socially-aware
+  mobile crowdsensing,'' \emph{IEEE Transactions on Wireless Communications},
+  vol.~20, no.~3, pp. 1457--1471, 2020.
 
 \bibitem{schulman2015high}
-J.~Schulman, P.~Moritz, S.~Levine, M.~Jordan, and P.~Abbeel, ``High-dimensional continuous control using generalized advantage estimation,'' \emph{arXiv preprint arXiv:1506.02438}, 2015.
+J.~Schulman, P.~Moritz, S.~Levine, M.~Jordan, and P.~Abbeel, ``High-dimensional
+  continuous control using generalized advantage estimation,'' \emph{arXiv
+  preprint arXiv:1506.02438}, 2015.
 
 \end{thebibliography}
